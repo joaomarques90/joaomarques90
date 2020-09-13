@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love sports, music, social gatherings and traveling
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.joaomarques90.vercel.app/api/spotify)](https://open.spotify.com/user/11164555946)
+[![Spotify](https://joaomarques90.vercel.app/api/spotify)](https://open.spotify.com/user/11164555946)
 
 ### Connect with me:
 
