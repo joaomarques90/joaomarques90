@@ -73,7 +73,7 @@
 
 </details>
 
-[website]: https://joaomarques90.tech/
+[website]: https://www.kickresume.com/cv/joaomarques1990/
 [twitter]: https://twitter.com/joao_marques_8
 [facebook]: https://facebook.com/joao.marques.8
 [instagram]: https://instagram.com/joaomarques8
