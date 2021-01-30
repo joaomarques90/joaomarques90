@@ -4,7 +4,7 @@
 ## I'm a Developer with big dreams!
 
 - 🌱 I’m currently learning everything I can <3 
-- 👯 I’m looking foward to collaborate with other content creators
+- 👨‍💻👩‍💻 I’m looking foward to collaborate with other content creators
 - 🥅 2021 Goals: Get higher certifications
 - ⚡ Fun fact: I love sports, music, social gatherings and traveling
 
