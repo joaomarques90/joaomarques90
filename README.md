@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything I can <3 
 - 👨‍💻👩‍💻 I’m looking foward to collaborate with other content creators 👋
 - 🥅 2021 Goals: Get higher certifications 🕮
-- ⚡ Fun fact: I love sports 🏊🏽‍♂️, music 📻, social gatherings 🍹 and traveling ✈️
+- ⚡ Fun fact: I love sports 🏊🏽‍♂️, music 🕺🏾, social gatherings 🍹 and traveling ✈️
 
 ### Spotify Playing 🎧
 [![Spotify](https://joaomarques90.vercel.app/api/spotify)](https://open.spotify.com/user/11164555946)
