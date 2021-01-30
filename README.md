@@ -58,7 +58,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+  <summary>:zap: Recent Github Activity (Public)</summary>
   
 <!--START_SECTION:activity-->
 
