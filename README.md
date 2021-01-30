@@ -37,7 +37,11 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" />
+<img align="left" alt="Oracle" width="26px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" />
+<img align="left" alt="IntelliJ" width="26px" src="https://img.stackshare.io/service/1453/icon_IntelliJIDEA.png" />
+<img align="left" alt="Raider" width="26px" src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo-7.png" />
+<img align="left" alt="CLion" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/12/clion.ico.png" />
+<img align="left" alt="PyCharm" width="26px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" />
 
 <br />
 <br />
