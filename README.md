@@ -43,6 +43,11 @@
 <img align="left" alt="CLion" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/12/clion.ico.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" />
 
+
+<img align="left" alt="PhotoShop" width="26px" src="https://pngimg.com/uploads/photoshop/photoshop_PNG7.png" />
+<img align="left" alt="Oracle VirtualBox" width="26px" src="https://w7.pngwing.com/pngs/340/100/png-transparent-virtualbox-virtual-machine-operating-systems-virtualization-x86-linux-logo-linux-oracle-corporation.png" />
+<img align="left" alt="CLion" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" />
+
 <br />
 <br />
 
