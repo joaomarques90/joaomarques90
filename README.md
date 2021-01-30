@@ -18,6 +18,8 @@
 [<img align="left" alt="João Marques | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="João Marques | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="João Marques | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="João Marques | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 
 <br />
 
@@ -81,3 +83,4 @@
 [facebook]: https://facebook.com/joao.marques.8
 [instagram]: https://instagram.com/joaomarques8
 [linkedin]: https://linkedin.com/in/joao-marques-20901
+[discord]: https://discord.com/users/628982811524595742
