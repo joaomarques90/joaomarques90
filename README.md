@@ -38,12 +38,12 @@
 <img align="left" alt="Haskell" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
 <img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<br />
+<br />
+<br />
+<br />
 <img align="left" alt="MongoDB" width="70px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="PowerBI" width="80px" src="https://www.cyclonis.com/images/2020/07/power-bi-1.jpg" />
-<br />
-<br />
-<br />
-<br />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -53,6 +53,9 @@
 <img align="left" alt="CLion" width="50px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/12/clion.ico.png" />
 <img align="left" alt="PyCharm" width="50px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" />
 <img align="left" alt="PhotoShop" width="50px" src="https://pngimg.com/uploads/photoshop/photoshop_PNG7.png" />
+<br />
+<br />
+<br />
 <img align="left" alt="Oracle VirtualBox" width="50px" src="https://w7.pngwing.com/pngs/340/100/png-transparent-virtualbox-virtual-machine-operating-systems-virtualization-x86-linux-logo-linux-oracle-corporation.png" />
 <img align="left" alt="CLion" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" />
 <img align="left" alt="Tableau" width="70px" src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100" />
