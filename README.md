@@ -55,7 +55,7 @@
 <img align="left" alt="PhotoShop" width="50px" src="https://pngimg.com/uploads/photoshop/photoshop_PNG7.png" />
 <img align="left" alt="Oracle VirtualBox" width="50px" src="https://w7.pngwing.com/pngs/340/100/png-transparent-virtualbox-virtual-machine-operating-systems-virtualization-x86-linux-logo-linux-oracle-corporation.png" />
 <img align="left" alt="CLion" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" />
-<img align="left" alt="Tableau" width="50px" src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100" />
+<img align="left" alt="Tableau" width="70px" src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100" />
 <br />
 <br />
 <br />
