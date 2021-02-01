@@ -60,7 +60,7 @@
 <br />
 <br />
 <img align="left" alt="Sublime" width="50px" src="https://avatars3.githubusercontent.com/u/684879" />
-
+<img align="left" alt="Talend" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Talend_logo.svg/418px-Talend_logo.svg.png" />
 <br />
 <br />
 
