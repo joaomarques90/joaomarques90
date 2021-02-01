@@ -64,7 +64,7 @@
 <img align="left" alt="Intel_XE" width="50px" src="https://i2.wp.com/mac-torrent-download.net/wp-content/uploads/2016/08/intel_parallel_studio_xe_icon.jpg?resize=175%2C221" />
 <img align="left" alt="GitLab" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
 <img align="left" alt="MS_Azure" width="85px" src="https://www.pinclipart.com/picdir/middle/519-5198040_colorlib-template-microsoft-azure-cloud-icon-clipart.png" />
-<img align="left" alt="CUDA" width="55px" src="https://www.macxdvd.com/mac-video-converter-pro/article-image/cuda-video-converter.jpg" />
+<img align="left" alt="CUDA" width="85px" src="https://www.macxdvd.com/mac-video-converter-pro/article-image/cuda-video-converter.jpg" />
 <br />
 <br />
 
