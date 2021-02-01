@@ -11,8 +11,6 @@
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11164555946&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="João Marques"  width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][cv-website]
