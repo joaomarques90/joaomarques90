@@ -12,6 +12,7 @@
 [![Spotify](https://joaomarques90.vercel.app/api/spotify)](https://open.spotify.com/user/11164555946)
 
 <br />
+
 ### Connect with me:
 
 [<img align="left" alt="João Marques"  width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][cv-website]
