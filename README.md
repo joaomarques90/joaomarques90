@@ -9,7 +9,7 @@
 - ⚡    Fun fact: I love sports 🏊🏽‍♂️, music 🕺🏾, social gatherings 🍹 and traveling ✈️
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11164555946&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11164555946&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <br />
 
