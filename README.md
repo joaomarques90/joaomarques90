@@ -73,7 +73,6 @@
 <img align="left" alt="CUDA" width="85px" src="https://www.macxdvd.com/mac-video-converter-pro/article-image/cuda-video-converter.jpg" />
 <br />
 <br />
-<br />
 
 ---
 
