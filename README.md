@@ -60,6 +60,7 @@
 <br />
 <br />
 <br />
+<br />
 <img align="left" alt="Sublime" width="50px" src="https://avatars3.githubusercontent.com/u/684879" />
 <img align="left" alt="Talend" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Talend_logo.svg/418px-Talend_logo.svg.png" />
 <img align="left" alt="Intel_XE" width="50px" src="https://i2.wp.com/mac-torrent-download.net/wp-content/uploads/2016/08/intel_parallel_studio_xe_icon.jpg?resize=175%2C221" />
