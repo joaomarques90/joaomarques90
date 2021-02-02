@@ -51,7 +51,7 @@
 <br />
 <br />
 <br />
-<img align="left" alt="Raider" width="85px" src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo-7.png" />
+<img align="left" alt="Raider" width="75px" src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo-7.png" />
 <img align="left" alt="CLion" width="85px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/12/clion.ico.png" />
 <img align="left" alt="PyCharm" width="85px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" />
 <img align="left" alt="PhotoShop" width="85px" src="https://pngimg.com/uploads/photoshop/photoshop_PNG7.png" />
