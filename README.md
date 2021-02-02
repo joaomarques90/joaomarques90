@@ -40,22 +40,22 @@
 <br />
 <br />
 <br />
-<img align="left" alt="MongoDB" width="70px" src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" />
+<img align="left" alt="MongoDB" width="80px" src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" />
 <img align="left" alt="PowerBI" width="80px" src="https://www.cyclonis.com/images/2020/07/power-bi-1.jpg" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Oracle" width="50px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" />
-<img align="left" alt="IntelliJ" width="50px" src="https://img.stackshare.io/service/1453/icon_IntelliJIDEA.png" />
+<img align="left" alt="Git" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="80px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<img align="left" alt="Terminal" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Oracle" width="80px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" />
+<img align="left" alt="IntelliJ" width="80px" src="https://img.stackshare.io/service/1453/icon_IntelliJIDEA.png" />
 <br />
 <br />
 <br />
-<img align="left" alt="Raider" width="50px" src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo-7.png" />
-<img align="left" alt="CLion" width="50px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/12/clion.ico.png" />
-<img align="left" alt="PyCharm" width="50px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" />
+<img align="left" alt="Raider" width="85px" src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo-7.png" />
+<img align="left" alt="CLion" width="85px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/12/clion.ico.png" />
+<img align="left" alt="PyCharm" width="85px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" />
 <img align="left" alt="PhotoShop" width="85px" src="https://pngimg.com/uploads/photoshop/photoshop_PNG7.png" />
-<img align="left" alt="Oracle VirtualBox" width="60px" src="https://w7.pngwing.com/pngs/340/100/png-transparent-virtualbox-virtual-machine-operating-systems-virtualization-x86-linux-logo-linux-oracle-corporation.png" />
-<img align="left" alt="CLion" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" />
+<img align="left" alt="Oracle VirtualBox" width="85px" src="https://w7.pngwing.com/pngs/340/100/png-transparent-virtualbox-virtual-machine-operating-systems-virtualization-x86-linux-logo-linux-oracle-corporation.png" />
+<img align="left" alt="CLion" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" />
 <br />
 <br />
 <br />
