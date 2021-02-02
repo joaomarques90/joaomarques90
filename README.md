@@ -78,6 +78,7 @@
 <br />
 <img align="left" alt="LaTeX" width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoCvr2RCxkNdUm7IAnFFX7eDrzbnLdkLTceg&usqp=CAU" />
 <img align="left" alt="MS_Office" width="135px" src="https://www.clipartkey.com/mpngs/m/31-319173_download-icons-microsoft-office-svg-eps-png-psd.png" />
+<img align="left" alt="Lex&Yacc" width="65px" src="https://images-na.ssl-images-amazon.com/images/I/41wdXqCbX7L._SX258_BO1,204,203,200_.jpg" />
 <br />
 <br />
 
