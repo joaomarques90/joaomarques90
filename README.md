@@ -73,6 +73,13 @@
 <img align="left" alt="CUDA" width="85px" src="https://www.macxdvd.com/mac-video-converter-pro/article-image/cuda-video-converter.jpg" />
 <br />
 <br />
+<br />
+<br />
+<br />
+<img align="left" alt="LaTeX" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoCvr2RCxkNdUm7IAnFFX7eDrzbnLdkLTceg&usqp=CAU" />
+<img align="left" alt="MS_Office" width="85px" src="https://www.clipartkey.com/mpngs/m/31-319173_download-icons-microsoft-office-svg-eps-png-psd.png" />
+<br />
+<br />
 
 ---
 
