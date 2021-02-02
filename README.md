@@ -26,51 +26,51 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/cpp/cpp.png" />
-<img align="left" alt="Haskell" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
-<img align="left" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="center" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="center" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="center" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="center" alt="PHP" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="center" alt="C" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="center" alt="C++" width="50px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/cpp/cpp.png" />
+<img align="center" alt="Haskell" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/haskell/haskell.png" />
+<img align="center" alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="center" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <br />
 <br />
 <br />
 <br />
-<img align="left" alt="MongoDB" width="80px" src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" />
-<img align="left" alt="PowerBI" width="80px" src="https://www.cyclonis.com/images/2020/07/power-bi-1.jpg" />
-<img align="left" alt="Git" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="80px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<img align="left" alt="Terminal" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Oracle" width="80px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" />
-<img align="left" alt="IntelliJ" width="80px" src="https://img.stackshare.io/service/1453/icon_IntelliJIDEA.png" />
+<img align="center" alt="MongoDB" width="80px" src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg" />
+<img align="center" alt="PowerBI" width="80px" src="https://www.cyclonis.com/images/2020/07/power-bi-1.jpg" />
+<img align="center" alt="Git" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="center" alt="GitHub" width="80px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<img align="center" alt="Terminal" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="center" alt="Oracle" width="80px" src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/oracle-512.png" />
+<img align="center" alt="IntelliJ" width="80px" src="https://img.stackshare.io/service/1453/icon_IntelliJIDEA.png" />
 <br />
 <br />
 <br />
 <br />
 <br />
 <img align="center" alt="Raider" width="75px" src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo-7.png" />
-<img align="left" alt="CLion" width="85px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/12/clion.ico.png" />
-<img align="left" alt="PyCharm" width="85px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" />
-<img align="left" alt="PhotoShop" width="85px" src="https://pngimg.com/uploads/photoshop/photoshop_PNG7.png" />
-<img align="left" alt="Oracle VirtualBox" width="85px" src="https://w7.pngwing.com/pngs/340/100/png-transparent-virtualbox-virtual-machine-operating-systems-virtualization-x86-linux-logo-linux-oracle-corporation.png" />
-<img align="left" alt="CLion" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" />
+<img align="center" alt="CLion" width="85px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/12/clion.ico.png" />
+<img align="center" alt="PyCharm" width="85px" src="https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-PyCharm_400x400_Twitter_logo_white.png" />
+<img align="center" alt="PhotoShop" width="85px" src="https://pngimg.com/uploads/photoshop/photoshop_PNG7.png" />
+<img align="center" alt="Oracle VirtualBox" width="85px" src="https://w7.pngwing.com/pngs/340/100/png-transparent-virtualbox-virtual-machine-operating-systems-virtualization-x86-linux-logo-linux-oracle-corporation.png" />
+<img align="center" alt="CLion" width="85px" src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Breezeicons-apps-48-android-studio.svg" />
 <br />
 <br />
 <br />
 <br />
 <br />
 <br />
-<img align="left" alt="Tableau" width="70px" src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100" />
-<img align="left" alt="Sublime" width="70px" src="https://avatars3.githubusercontent.com/u/684879" />
-<img align="left" alt="Talend" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Talend_logo.svg/418px-Talend_logo.svg.png" />
-<img align="left" alt="Intel_XE" width="50px" src="https://i2.wp.com/mac-torrent-download.net/wp-content/uploads/2016/08/intel_parallel_studio_xe_icon.jpg?resize=175%2C221" />
-<img align="left" alt="GitLab" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
-<img align="left" alt="MS_Azure" width="85px" src="https://www.pinclipart.com/picdir/middle/519-5198040_colorlib-template-microsoft-azure-cloud-icon-clipart.png" />
-<img align="left" alt="CUDA" width="85px" src="https://www.macxdvd.com/mac-video-converter-pro/article-image/cuda-video-converter.jpg" />
+<img align="center" alt="Tableau" width="70px" src="https://images.ctfassets.net/76f8cs5bg9si/38ggNE1ggnjPLDGP3fV6Sb/1dd26f4f7dcd5767f0362cee8369ac92/Feature-Photo-Tableau.png?w=2560&q=100" />
+<img align="center" alt="Sublime" width="70px" src="https://avatars3.githubusercontent.com/u/684879" />
+<img align="center" alt="Talend" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Talend_logo.svg/418px-Talend_logo.svg.png" />
+<img align="center" alt="Intel_XE" width="50px" src="https://i2.wp.com/mac-torrent-download.net/wp-content/uploads/2016/08/intel_parallel_studio_xe_icon.jpg?resize=175%2C221" />
+<img align="center" alt="GitLab" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
+<img align="center" alt="MS_Azure" width="85px" src="https://www.pinclipart.com/picdir/middle/519-5198040_colorlib-template-microsoft-azure-cloud-icon-clipart.png" />
+<img align="center" alt="CUDA" width="85px" src="https://www.macxdvd.com/mac-video-converter-pro/article-image/cuda-video-converter.jpg" />
 <br />
 <br />
 
