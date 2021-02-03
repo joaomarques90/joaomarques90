@@ -100,6 +100,8 @@
 
 </details>
 
+[iQueue – Smart Ticket Management System with SMS Authentication]: https://www.smsapi.com/blog/iqueue-ticket-system-sms-authentication/
+
 [cv-website]: https://www.kickresume.com/cv/joaomarques1990/
 [twitter]: https://twitter.com/joao_marques_8
 [facebook]: https://facebook.com/joao.marques.8
