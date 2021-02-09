@@ -1,4 +1,4 @@
-### Hi there, I'm João - [cv-website] 👋
+### Hi there, I'm João  [cv-website] 👋
 
 
 ## I'm a Developer with big dreams!
