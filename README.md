@@ -9,6 +9,7 @@
 - ⚡    Fun fact: I love sports 🏊🏽‍♂️, music 🕺🏾, social gatherings 🍹 and traveling ✈️
 
 ### Work Article: [iQueue – Smart Ticket Management System with SMS Authentication] 💡
+(more info here)
 ### Eurotux: [2020 Remote Summer Internship – DevOps] 🏠💻
 
 ### Spotify Playing 🎧
