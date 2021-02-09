@@ -105,7 +105,7 @@
 </details>
 
 [iQueue – Smart Ticket Management System with SMS Authentication]: https://www.smsapi.com/blog/iqueue-ticket-system-sms-authentication/
-[2020 Remote Summer Internship - DevOps]: https://github.com/joaomarques90/EuroTux
+[2020 Remote Summer Internship – DevOps]: https://github.com/joaomarques90/EuroTux
 
 [cv-website]: https://www.kickresume.com/cv/joaomarques1990/
 [twitter]: https://twitter.com/joao_marques_8
