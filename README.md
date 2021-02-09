@@ -8,8 +8,8 @@
 - 🥅     2021 Goals: Get higher certifications 🕮
 - ⚡    Fun fact: I love sports 🏊🏽‍♂️, music 🕺🏾, social gatherings 🍹 and traveling ✈️
 
-### Work Article - [iQueue – Smart Ticket Management System with SMS Authentication] 💡
-### Eurotux - [2020 Remote Summer Internship – DevOps] 🏠💻
+### Work Article: [iQueue – Smart Ticket Management System with SMS Authentication] 💡
+### Eurotux: [2020 Remote Summer Internship – DevOps] 🏠💻
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11164555946&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
