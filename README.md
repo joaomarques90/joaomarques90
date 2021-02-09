@@ -8,7 +8,7 @@
 - 🥅     2021 Goals: Get higher certifications 🕮
 - ⚡    Fun fact: I love sports 🏊🏽‍♂️, music 🕺🏾, social gatherings 🍹 and traveling ✈️
 
-### Work Article: [iQueue – Smart Ticket Management System with SMS Authentication] 💡 (more info here)
+### Work Article: [iQueue – Smart Ticket Management System with SMS Authentication] 💡 (more info [here])
 ### Eurotux: [2020 Remote Summer Internship – DevOps] 🏠💻
 
 ### Spotify Playing 🎧
@@ -106,6 +106,7 @@
 
 [iQueue – Smart Ticket Management System with SMS Authentication]: https://www.smsapi.com/blog/iqueue-ticket-system-sms-authentication/
 [2020 Remote Summer Internship – DevOps]: https://github.com/joaomarques90/EuroTux
+[here]: https://github.com/joaomarques90/LI4
 
 [cv-website]: https://www.kickresume.com/cv/joaomarques1990/
 [twitter]: https://twitter.com/joao_marques_8
