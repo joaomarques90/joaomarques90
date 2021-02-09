@@ -9,6 +9,7 @@
 - ⚡    Fun fact: I love sports 🏊🏽‍♂️, music 🕺🏾, social gatherings 🍹 and traveling ✈️
 
 ### Work Article - [iQueue – Smart Ticket Management System with SMS Authentication] 💡
+### Eurotux Internship - [2020 Remote Summer Internship - DevOps] 🏠💻
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11164555946&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
@@ -104,6 +105,7 @@
 </details>
 
 [iQueue – Smart Ticket Management System with SMS Authentication]: https://www.smsapi.com/blog/iqueue-ticket-system-sms-authentication/
+[2020 Remote Summer Internship - DevOps]: https://github.com/joaomarques90/EuroTux
 
 [cv-website]: https://www.kickresume.com/cv/joaomarques1990/
 [twitter]: https://twitter.com/joao_marques_8
